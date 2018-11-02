@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Reverse Engineering for Marist College"
+theme = "kraiklyn"
+[params]
+    sidebarColor = "red"
+[blackfriday]
+   hrefTargetBlank = true
